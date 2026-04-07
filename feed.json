@@ -1,7 +1,7 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Zak Winnick",
-	"icon": "<no value>",
+	"icon": "https://micro.blog/zwinn/avatar.jpg",
 	"home_page_url": "https://zakwinnick.com/",
 	"feed_url": "https://zakwinnick.com/feed.json",
 	"items": [
