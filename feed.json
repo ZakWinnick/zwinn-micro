@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://zwinn.micro.blog/2026/04/19/i-did-a-thing-this.html",
+				
+				"content_html": "<p>I did a thing this past week…</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I did a thing this past week…\n\n<img src=\"uploads/2026/764ca6571c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-04-19T10:41:04-07:00",
+				"url": "https://zakwinnick.com/2026/04/19/i-did-a-thing-this.html",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://zwinn.micro.blog/2025/09/27/hung-out-in-pacifica-for.html",
 				
 				"content_html": "<p>Hung out in Pacifica for National Public Lands Day, doing a habitat restoration with the <a href=\"https://bayarearivianclub.com\">Bay Area Rivian Club</a> and the <a href=\"https://pacificbeachcoalition.org\">Pacific Beach Coalition</a>.</p>\n<p>Couldn’t have asked for a more perfect day…</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
@@ -44,7 +53,7 @@
 				"id": "http://zwinn.micro.blog/2025/02/02/i-really-do-love-driving.html",
 				
 				"content_html": "<p>I really do love driving my R1T in the rain…especially through canyons.</p>\n<p>(First pic mine…the rest are from a couple of my friends in the <a href=\"https://bayarearivianclub.com\">Bay Area Rivian Club</a>)</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I really do love driving my R1T in the rain…especially through canyons. \n\n(First pic mine…the rest are from a couple of my friends in the [Bay Area Rivian Club](https://bayarearivianclub.com))\n\n<img src=\"uploads/2025/5ef3eaf88a.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2025/c62f731325.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2025/976c7c58a1.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2025/5d919dd1fd.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "I really do love driving my R1T in the rain…especially through canyons. \n\n(First pic mine…the rest are from a couple of my friends in the [Bay Area Rivian Club](https://bayarearivianclub.com))\n\n<img src=\"https://zwinn.micro.blog/uploads/2025/5ef3eaf88a.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://zwinn.micro.blog/uploads/2025/c62f731325.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://zwinn.micro.blog/uploads/2025/976c7c58a1.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://zwinn.micro.blog/uploads/2025/5d919dd1fd.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-02-02T18:53:16-07:00",
 				"url": "https://zakwinnick.com/2025/02/02/i-really-do-love-driving.html",
 				"tags": ["Photos","Rivian"]
@@ -53,7 +62,7 @@
 				"id": "http://zwinn.micro.blog/2024/12/22/attended-my-first-bark-mitzvah.html",
 				
 				"content_html": "<p>Attended my first “Bark” Mitzvah last night.</p>\n<p>Rico was not impressed…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Attended my first “Bark” Mitzvah last night. \n\nRico was not impressed…\n\n<img src=\"uploads/2024/807c096bb0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Attended my first “Bark” Mitzvah last night. \n\nRico was not impressed…\n\n<img src=\"https://zwinn.micro.blog/uploads/2024/807c096bb0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-12-22T10:41:25-07:00",
 				"url": "https://zakwinnick.com/2024/12/22/attended-my-first-bark-mitzvah.html",
 				"tags": ["Photos"]
