@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://zwinn.micro.blog/2026/04/19/currently-reading-jumbo-by-scott.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9780241673287\">Jumbo</a> by Scott Bateman 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780241673287/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Jumbo](https://micro.blog/books/9780241673287) by Scott Bateman 📚\n",
+				"date_published": "2026-04-19T17:05:00-07:00",
+				"url": "https://zakwinnick.com/2026/04/19/currently-reading-jumbo-by-scott.html"
+			},
+			{
 				"id": "http://zwinn.micro.blog/2026/04/19/i-did-a-thing-this.html",
 				
 				"content_html": "<p>I did a thing this past week…</p>\n<!-- raw HTML omitted -->\n",
